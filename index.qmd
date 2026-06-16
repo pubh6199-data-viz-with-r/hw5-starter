@@ -1,9 +1,9 @@
 ---
 title: "Final Project: [YOUR TITLE HERE]"
 author: "[YOUR NAMES]"
-date: "2025-06-26"
+date: "2026-06-25"
 params:
-  number: 6
+  number: 5
   purpose: "Final project for PUBH 6199: Visualizing Data with R"
 format: 
   html:

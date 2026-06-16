@@ -1,3 +1,6 @@
+# Note: if your data file is very large you may have to omit data folder in order to push to GitHub
+# data/
+
 # R and RStudio
 .Rhistory
 .Rapp.history
@@ -24,3 +27,4 @@ Thumbs.db
 *.env
 
 /.quarto/
+.positai
